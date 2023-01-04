@@ -1,0 +1,5 @@
+C:\Users\Saman\source\repos\CRUD-NCAPASSQL\CapasDatos\obj\Debug\netcoreapp3.1\CapasDatos.csproj.AssemblyReference.cache
+C:\Users\Saman\source\repos\CRUD-NCAPASSQL\CapasDatos\obj\Debug\netcoreapp3.1\CapasDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saman\source\repos\CRUD-NCAPASSQL\CapasDatos\obj\Debug\netcoreapp3.1\CapasDatos.AssemblyInfoInputs.cache
+C:\Users\Saman\source\repos\CRUD-NCAPASSQL\CapasDatos\obj\Debug\netcoreapp3.1\CapasDatos.AssemblyInfo.cs
+C:\Users\Saman\source\repos\CRUD-NCAPASSQL\CapasDatos\obj\Debug\netcoreapp3.1\CapasDatos.csproj.CoreCompileInputs.cache

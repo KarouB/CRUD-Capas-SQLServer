@@ -1,0 +1,6 @@
+C:\Users\Saman\source\repos\CRUD-NCAPASSQL\Entidades\bin\Debug\Entidades.dll
+C:\Users\Saman\source\repos\CRUD-NCAPASSQL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Saman\source\repos\CRUD-NCAPASSQL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Saman\source\repos\CRUD-NCAPASSQL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Saman\source\repos\CRUD-NCAPASSQL\Entidades\obj\Debug\Entidades.dll
+C:\Users\Saman\source\repos\CRUD-NCAPASSQL\Entidades\obj\Debug\Entidades.pdb
